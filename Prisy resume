@@ -1,0 +1,161 @@
+<!DOCTYPE html><html lang=”en”>
+
+<head>
+
+    <meta charset=”UTF-8”>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+
+    <title>Prisy A – Resume</title>
+
+    <style>
+
+        Body {
+
+            Font-family: Arial, sans-serif;
+
+            Margin: 40px;
+
+            Background-color: #f4f4f4;
+
+            Color: #333;
+
+        }
+
+        .container {
+
+            Max-width: 800px;
+
+            Background: white;
+
+            Padding: 20px;
+
+            Border-radius: 10px;
+
+            Box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+        }
+
+        H1, h2 {
+
+            Color: #2c3e50;
+
+        }
+
+        .section {
+
+            Margin-bottom: 20px;
+
+        }
+
+        Ul {
+
+            List-style-type: square;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class=”container”>
+
+        <h1>Prisy A</h1>
+
+        <p><strong>Aspiring Software Developer & Tech Enthusiast</strong></p><div class=”section”>
+
+        <h2>Career Objective</h2>
+
+        <p>As a passionate and dedicated BCA student, I aim to leverage my skills in programming, problem-solving, and database management to contribute to the growth and success of a dynamic organization. I seek to apply my knowledge of software development, web technologies, and system analysis in a challenging and innovative work environment.</p>
+
+    </div>
+
+
+
+    <div class=”section”>
+
+        <h2>Education</h2>
+
+        <p><strong>Bachelor of Computer Applications (BCA) | Expected 2026</strong></p>
+
+        <p>Alpha Arts and Science College, Porur – University of Madras | Percentage: 75%</p>
+
+        <p><strong>Higher Secondary Education (12th Standard) | 2023</strong></p>
+
+        <p>Government Girls’ Higher Secondary School, Thiruvallur | Percentage: 57%</p>
+
+    </div>
+
+
+
+    <div class=”section”>
+
+        <h2>Skills</h2>
+
+        <ul>
+
+            <li>Programming Languages: Java, C++, Python, HTML</li>
+
+            <li>Web Development: HTML, CSS, JavaScript</li>
+
+            <li>Software Development: Object-Oriented Programming (OOP)</li>
+
+            <li>Data Structures & Algorithms: Strong understanding of data structures and algorithmic problem-solving</li>
+
+        </ul>
+
+    </div>
+
+
+
+    <div class=”section”>
+
+        <h2>Certifications</h2>
+
+        <p>CDAC AI Certificate – Centre for Development of Advanced Computing (2024)</p>
+
+    </div>
+
+
+
+    <div class=”section”>
+
+        <h2>Interests</h2>
+
+        <ul>
+
+            <li>Reading</li>
+
+            <li>Writing Stories</li>
+
+            <li>Developing Code</li>
+
+        </ul>
+
+    </div>
+
+
+
+    <div class=”section”>
+
+        <h2>Languages Known</h2>
+
+        <ul>
+
+            <li>Tamil: Read, Write, Speak</li>
+
+            <li>English: Read, Write, Speak</li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+
+
+</body>
+
+</html>
